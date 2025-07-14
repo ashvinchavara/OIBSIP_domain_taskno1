@@ -21,9 +21,6 @@ A powerful and easy-to-use Converter App that supports conversion between a wide
 
 - Easy conversion between units within each category
 - Intuitive user interface
-- Real-time currency conversion (requires internet connection)
-- History of conversions
-- Supports both desktop and mobile devices
 - Light and dark mode options
 
 ## Usage
@@ -43,4 +40,4 @@ A powerful and easy-to-use Converter App that supports conversion between a wide
 
 - ![Converter Screenshot](Screenshot_20250715_012808.png)
   
-- ![Converter Screenshot](Screenshot_20250715_012945.png)
+- ![Converter Screenshot](Screenshot_20250715_012845.png)
