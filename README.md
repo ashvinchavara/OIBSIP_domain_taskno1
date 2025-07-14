@@ -35,4 +35,12 @@ A powerful and easy-to-use Converter App that supports conversion between a wide
 
 ## 📸 Preview
 
-- ![Stopwatch Screenshot](screenshot.png)
+- ![Converter Screenshot](Screenshot_20250715_012549.png)
+
+- ![Converter Screenshot](Screenshot_20250715_012623.png)
+  
+- ![Converter Screenshot](Screenshot_20250715_012736.png)
+
+- ![Converter Screenshot](Screenshot_20250715_012808.png)
+  
+- ![Converter Screenshot](Screenshot_20250715_012945.png)
