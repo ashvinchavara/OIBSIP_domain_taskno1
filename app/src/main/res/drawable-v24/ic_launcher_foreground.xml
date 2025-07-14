@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="512"
+    android:viewportHeight="512">
+
+    <!-- Background rounded rectangle -->
+    <path
+        android:fillColor="#3498DB"
+        android:pathData="M100,0 h312 a100,100 0 0 1 100,100 v312 a100,100 0 0 1 -100,100 h-312 a100,100 0 0 1 -100,-100 v-312 a100,100 0 0 1 100,-100 z" />
+
+    <!-- Upper semi-circle arrow -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="24"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M180,256 a76,76 0 0 1 130,-53" />
+
+    <!-- Arrowhead for upper arrow -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M290,183 L320,183 L305,155 Z" />
+
+    <!-- Lower semi-circle arrow -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="24"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M332,256 a76,76 0 0 1 -130,53" />
+
+    <!-- Arrowhead for lower arrow -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M222,329 L192,329 L207,357 Z" />
+
+    <!-- Text not supported in VectorDrawable, use a TextView instead -->
+</vector>
